@@ -1,0 +1,25 @@
+Redmond, Washington - June 15, 2026
+
+Microsoft is thrilled to announce the official release of Windows 12, a groundbreaking operating system that marks a significant shift in our approach to computing. With Windows 12, we have fully embraced the power and flexibility of the Linux Kernel, making it the foundation of our latest operating system.
+
+Over the past few years, our team has worked tirelessly to integrate the Linux Kernel into the heart of Windows, ensuring a seamless transition for our users while harnessing the benefits of open-source technology. This strategic move aligns with our commitment to innovation, collaboration, and delivering the most stable and efficient operating system to our customers.
+
+By building Windows 12 on the Linux Kernel, we have unlocked a new era of possibilities. The Linux Kernel, renowned for its robustness and versatility, powers billions of devices worldwide, from smartphones and tablets to servers and cloud environments. By leveraging this proven technology, we can offer our users an unparalleled level of stability, security, and compatibility.
+
+One of the key advantages of this transition is the enhanced compatibility between Windows and other operating systems. With the Linux Kernel at its core, Windows 12 can seamlessly interact with a wide range of devices and platforms, making it easier for users to work across different systems and collaborate with others, regardless of their operating system of choice.
+
+Moreover, by embracing the Linux Kernel, Microsoft can benefit from the collective efforts of the open-source community. The Linux Kernel is actively maintained and contributed to by numerous major tech companies, including Intel, IBM, Google, ARM, Red Hat, Canonical, and Samsung. This collaborative approach ensures that the Linux Kernel remains at the forefront of technology, with regular updates, security patches, and performance optimizations.
+
+Despite the significant changes under the hood, Windows 12 retains the familiar user interface and experience that our customers have come to know and love. We have made careful modifications to the Linux Kernel to ensure that it integrates seamlessly with the Windows environment, preserving the iconic look and feel of our operating system.
+
+In addition to the stability and compatibility benefits, Windows 12 also brings forth a host of new features and improvements. We have focused on enhancing performance, reducing resource consumption, and optimizing battery life for laptop users. The integration of the Linux Kernel has also allowed us to introduce advanced security features, such as enhanced sandboxing and granular access controls, to keep our users' data and systems protected from emerging threats.
+
+We have also made significant strides in the realm of gaming. With Windows 12, gamers can expect improved graphics performance, reduced latency, and better compatibility with a wide range of gaming peripherals. The Linux Kernel's inherent support for Vulkan graphics API enables developers to create immersive and high-performance games that push the boundaries of what is possible on the Windows platform.
+
+As we launch Windows 12, we are excited about the opportunities it presents for our users, developers, and partners. We believe that this transition to the Linux Kernel marks a new chapter in the history of Windows, one that embraces openness, collaboration, and innovation.
+
+We would like to extend our gratitude to the Linux community, our partners, and the countless developers and contributors who have made this achievement possible. Your dedication and expertise have been instrumental in bringing Windows 12 to life.
+
+We invite our users to experience the power and potential of Windows 12 firsthand. Upgrade to Windows 12 today and embark on a new era of computing that combines the best of both worlds - the familiarity of Windows and the strength of the Linux Kernel.
+
+Welcome to Windows 12, the operating system that redefines what is possible on the desktop.

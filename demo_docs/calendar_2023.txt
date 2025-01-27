@@ -1,0 +1,49 @@
+Here's your expanded list with additional dummy dates:
+
+14 January, 2023, 09:00-10:30, ATComputing HQ, Team Meeting, Work
+28 January, 2023, 19:00-21:00, Chez Pierre Restaurant, Family Dinner, Private
+5 February, 2023, 08:00-09:00, Riverside Park, Morning Jog, Private
+12 February, 2023, 12:00-13:30, Bella Italia Restaurant, Valentine's Day Lunch with Partner, Private
+20 February, 2023, 15:00-16:00, Smith Library, Book Club Meeting, Private
+27 February, 2023, 14:00-16:00, ATComputing HQ, Project Nexus Deadline, Work
+2 March, 2023, 18:30-19:30, Downtown Gym, Spinning Class, Private
+8 March, 2023, 10:00-17:00, TechnoVision Conference Center, Tech Conference, Work
+15 March, 2023, 10:00-11:00, ATComputing HQ, Staff Briefing, Work
+23 March, 2023, 18:00-22:00, Jack's Place, Birthday Party, Private
+30 March, 2023, 17:00-19:00, The Bowling Alley, Friends Night Out, Private
+3 April, 2023, 11:00-12:30, ATComputing HQ, Performance Review, Work
+11 April, 2023, 20:00-21:30, Zen Spa, Relaxation Session, Private
+18 April, 2023, 16:00-17:30, Greenfield Park, Outdoor Yoga Class, Private
+25 April, 2023, 08:30-10:00, City Hall, Community Meeting, Private
+1 May, 2023, 09:00-11:00, ATComputing HQ, Project Aurora Kickoff, Work
+9 May, 2023, 17:30-18:30, Elm Street Cafe, Book Authors Meetup, Private
+26 May, 2023, 11:00-15:00, Sunnyvale Beach Resort, Memorial Day Weekend Getaway, Private
+4 June, 2023, 09:00-10:00, Local Health Center, Blood Donation Drive, Private
+13 June, 2023, 13:00-14:30, ATComputing HQ, Lunch and Learn, Work
+21 June, 2023, 20:00-22:00, City Observatory, Stargazing Event, Private
+28 June, 2023, 17:00-20:00, Home, Family Movie Night, Private
+6 July, 2023, 09:00-10:00, Sunrise Yoga Studio, Early Bird Yoga, Private
+4 July, 2023, 10:00-16:00, Liberty Park, Independence Day Picnic, Private
+12 July, 2023, 16:00-18:00, Lakeside Marina, Kayaking with Friends, Private
+18 July, 2023, 15:00-16:30, ATComputing HQ, Client Meeting with Innovatech, Work
+27 July, 2023, 19:00-21:00, The Jazz Club, Live Music Evening, Private
+8 August, 2023, 09:00-16:00, Adventure Island, Team Building Activity, Work
+17 August, 2023, 13:00-14:00, Floral Boutique, Flower Arranging Workshop, Private
+24 August, 2023, 14:00-17:00, Metropolitan Museum of Art, Art Exhibition, Private
+1 September, 2023, 08:00-09:00, Central Track, Community 5k Run, Private
+4 September, 2023, 09:00-17:00, ATComputing HQ, Labor Day (Office Closed), Work
+10 September, 2023, 15:00-16:30, ATComputing HQ, Fireside Chat with CEO, Work
+16 September, 2023, 19:00-21:30, La Maison Rouge Restaurant, Anniversary Dinner with Partner, Private
+22 September, 2023, 10:00-12:00, ATComputing HQ, Webinar on Cybersecurity, Work
+3 October, 2023, 11:00-13:00, ATComputing HQ, Quarterly Review, Work
+11 October, 2023, 14:00-15:00, The Art Studio, Pottery Class, Private
+29 October, 2023, 18:00-23:00, Home, Halloween Party, Private
+5 November, 2023, 09:00-11:00, Local Community Center, Charity Bake Sale, Private
+13 November, 2023, 14:00-17:00, ATComputing HQ, Project Zenith Deadline, Work
+19 November, 2023, 16:00-19:00, Riverside Restaurant, High School Reunion, Private
+23 November, 2023, 12:00-16:00, Home, Thanksgiving Dinner, Private
+1 December, 2023, 16:00-18:00, City Theater, "The Nutcracker" Ballet Performance, Private
+8 December, 2023, 09:00-11:30, ATComputing HQ, End-of-Year Review, Work
+14 December, 2023, 20:00-22:00, Harborfront Ice Rink, Ice Skating with Colleagues, Work
+25 December, 2023, 10:00-18:00, Home, Christmas Day Celebration, Private
+31 December, 2023, 20:00-01:00, Skyline Lounge, New Year's Eve Dinner, Private
